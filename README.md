@@ -1,1 +1,1 @@
-[hello](file:///xxxxx)
+<a herf="content://xxxxx" />
